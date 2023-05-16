@@ -1,7 +1,7 @@
 {
   "short_name": "SiaCashCoin",
   "name": "SiaCashCoin",
-  "description": "Farm SCC with SiaCashCoin LP Tokens",
+  "description": "Farm DOLLAR with BabyDollar LP Tokens",
   "homepage_url": "https://siacashcoin.com",
   "start_url": ".",
   "display": "standalone",
